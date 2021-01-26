@@ -1,0 +1,11 @@
+.back{
+    background-color: rgb(135, 182, 223);
+   
+}
+
+/* the .display-4 are for the font on the jumbotron*/
+.display-4 {
+    font-family: 'Hanalei', cursive;
+    text-align: center;
+    font-size: 60px;
+}

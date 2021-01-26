@@ -1,5 +1,16 @@
-<h1>Burgers!</h1>
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <div class="display-4">EAT DA BURGER!</div> 
+    {{!-- <img src="hamburger-cute.png" alt="hamburger-img"> --}}
+  </div>
+</div>
 
+
+<div class="back">
+
+<div class="container">
+  <div class="row align-items-start">
+    <div class="col">
 <h2>Burgers that are not devoured!</h2>
 
 <ul>
@@ -14,7 +25,9 @@
   {{/unless}}
   {{/each}}
 </ul>
+</div>
 
+<div class="col">
 <h2>Burgers that are devoured!</h2>
 
 <ul>
@@ -26,7 +39,10 @@
   {{/if}}
   {{/each}}
 </ul>
+    </div>
 
+  <div class="col">
+     
 <h2>Add a Burger</h2>
 <form class="create-form">
 
@@ -38,3 +54,6 @@
 
   <button type="submit">Add Burger</button>
 </form>
+    </div>
+  </div>
+  </div>
