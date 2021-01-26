@@ -1,11 +1,19 @@
 .back{
     background-color: rgb(135, 182, 223);
-   
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 50%;
+    padding-top:5%;
+    
 }
 
 /* the .display-4 are for the font on the jumbotron*/
 .display-4 {
     font-family: 'Hanalei', cursive;
     text-align: center;
-    font-size: 60px;
+    font-size: 600px;
+}
+
+.jumbotron {
+    /* padding-bottom: 50%; */
 }
