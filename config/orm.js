@@ -41,6 +41,3 @@ const orm = {
 // Export the orm object
 module.exports = orm;
 
-// orm.selectAll("burgers", (data) => {
-//     console.log(data);
-// });

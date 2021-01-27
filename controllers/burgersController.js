@@ -20,7 +20,7 @@ router.post("/api/burgers", (req, res) => {
   burger.create(
     { name: req.body.name},
     (result) => {
-      // Send back the ID of the new quote
+      // Send back the ID of the new burger
       res.json({ id: result.insertId });
     }
   );

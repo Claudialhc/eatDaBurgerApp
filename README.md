@@ -9,6 +9,6 @@ Here is an image of the working app:
 
 GitHub Repo Link: https://github.com/Claudialhc/eatDaBurgerApp
 <br>
-Heroku Deployed Link:
+Heroku Deployed Link: https://whispering-springs-54462.herokuapp.com/
 <br> 
 My Portfolio Link: https://claudialhc.github.io/MyPortfolio/
